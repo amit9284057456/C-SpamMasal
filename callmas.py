@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-# Coded by KANG-NEWBIE
+# Coded by Amit Singh
 """
 ngapai bosq? mau recode?
 tinggal pake aja susah amat sih?!
@@ -21,7 +21,7 @@ w=('\033[1;37m')
 print("""%s
 			SPAM CALL MASSAL V4.0%s
  ,_     _‚
- |\\\___//|	%sAuthor: KANG-NEWBIE%s
+ |\\\___//|	%sAuthor: Amit Singh%s
  |=6   6=|	%sContact: https://t.me/kang_nuubi%s
  \=._Y_.=/	%sGithub: https://github.com/KANG-NEWBIE%s
   )  `  (    ,	%sTEAM: CRABS (t.me/CRABS_ID)%s
